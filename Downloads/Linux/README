@@ -1,0 +1,8 @@
+LiteUnzip.cpp was made by Alan. It can decompress an entire folder. Audio, Image, and Video decompression were stripped.
+TOSZ.cpp was made by Terry. It decompresses 1 file at a time.
+
+To compile, run: make
+To clean, run: make c
+
+These are only tested under Linux but should work for any POSIX compatible operating systems.
+
