@@ -15,7 +15,7 @@ We will try our best to conform to Terry's original design philosophies while at
 ## Commandments
 
 - Eleventh commandment:   Thou shall not litter.
-- Twelfth commandment:    "Don't shoot unarmed men on the crapper." http://www.youtube.com/watch?v=8wGiJcq95Ug
+- Twelfth commandment:    "Don't shoot unarmed men on the crapper." [http://www.youtube.com/watch?v=8wGiJcq95Ug](https://web.archive.org/web/20170901022101/https://www.youtube.com/watch?v=8wGiJcq95Ug)
 - Thirteenth commandment: No gore unless it looks fake.
 - Fourteenth commandment: No pedophilia or child porn.
 - Fifteenth commandment:  Don't eat rare meat with blood.
