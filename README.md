@@ -31,3 +31,4 @@ TempleOS is a 64 bit, non-preemptive multi-tasking, multi-cored, public domain, 
 
 * [ ] Add build instructions
 * [ ] Add supplementary discs
+* [ ] Create a dedicated webite to host the code in RedSea format, with an online code viewer (this might require a modified git or svn to enable creating diffs for RedSea format)
